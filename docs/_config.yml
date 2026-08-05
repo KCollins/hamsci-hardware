@@ -21,7 +21,7 @@
 title: HamSCI Hardware
 description: >- # this means to ignore newlines until "baseurl:"
   (Add specific instrument description here)
-baseurl: "/hardware/" # the subpath of your site, e.g. /blog
+baseurl: "/hamsci-hardware/" # the subpath of your site, e.g. /blog
 domain: hamsci.github.io
 url: "https://hamsci.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
