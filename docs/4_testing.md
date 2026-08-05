@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Quality, Calibration and Test Procedures
+title: Calibration and Test Procedures
 permalink: /testing/
 mermaid: true
 ---
