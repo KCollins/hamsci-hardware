@@ -7,7 +7,7 @@ A template repository for documenting HamSCI hardware.
 - [ ] Edit CITATION.cff file.
 - [ ] Select and add a LICENSE.txt file.
 - [ ] Update this README by filling out the table below and deleting this checklist.
-- [ ] When the repository is ready for release, synchronize to a Zenodo repository and add DOI badge here.  
+- [ ] When the repository is ready for release, [synchronize to a Zenodo repository](https://help.zenodo.org/docs/github/enable-repository/) and add DOI badge here.  
 
 
 |  			Hardware name 		          |  			Please specify the name 			of the hardware that you invented/customized 		                                                                                                                                                                                                                                                                                                                                                                           |
