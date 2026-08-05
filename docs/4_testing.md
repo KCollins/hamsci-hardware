@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Calibration and Test Procedures
+title: Calibrate and Test
 permalink: /testing/
 mermaid: true
 ---
