@@ -13,6 +13,12 @@ Describe the materials and tools required. Examples below.
 {:toc}
 
 
+## Site Needs
+**Be specific about this!**
+* Internet connection
+* Place to deploy antenna
+* Place to dig hole (for magnetometer)
+
 ## Tools & Materials
 
 ### Receiver
