@@ -24,4 +24,6 @@ You can make a checklist in Markdown like this:
 
 ## Deployment
 - [ ] Launch antenna into tree
+- [ ] do a task
+- [ ] do another task
 ---
